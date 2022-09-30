@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f01ff2b15191dd4ea5706353a576a02, type: 3}
   m_Name: Engine
   m_EditorClassIdentifier: 
-  powerupName: 
+  powerupName: Engine
   powerUpPrefab: {fileID: 0}
   powerDescription: 
   healShield: 0
-  turboBoost: 0
+  turboBoost: 50
   weaponRange: 0
   weaponStrength: 0
